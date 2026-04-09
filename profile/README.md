@@ -10,26 +10,32 @@
 
 ## Repositories
 
+### Infrastructure & Knowledge
+
 | Repo | Purpose |
 |------|---------|
-| [7f-infrastructure-project](https://github.com/Seven-Fortunas-Internal/7f-infrastructure-project) | CI/CD, org config, Second Brain scaffold, dashboards, compliance |
-| [seven-fortunas-brain](https://github.com/Seven-Fortunas-Internal/seven-fortunas-brain) | Private knowledge base — raw sources → synthesized wiki → public output |
-| [intercorp](https://github.com/Seven-Fortunas-Internal/intercorp) | Seven Fortunas US→Peru remittance + loyalty platform |
+| [7f-infrastructure-project](https://github.com/Seven-Fortunas-Internal/7f-infrastructure-project) | CI/CD, org config, all 7F skills, Second Brain scaffold, dashboards, compliance |
+| [seven-fortunas-brain](https://github.com/Seven-Fortunas-Internal/seven-fortunas-brain) | Private knowledge base — raw sources → LLM wiki → public output |
 | [dashboards-internal](https://github.com/Seven-Fortunas-Internal/dashboards-internal) | Internal AI, fintech, edutech, security dashboards |
 | [internal-docs](https://github.com/Seven-Fortunas-Internal/internal-docs) | Runbooks, SOPs, onboarding guides |
+
+### Customer Projects  ·  [index →](https://github.com/Seven-Fortunas-Internal/customer-projects)
+
+| Repo | Client |
+|------|--------|
+| [cp-intercorp](https://github.com/Seven-Fortunas-Internal/cp-intercorp) | Intercorp Group — US→Peru remittance + loyalty |
+
+### Engineering  ·  [index →](https://github.com/Seven-Fortunas-Internal/engineering)
+
+| Repo | Description |
+|------|-------------|
+| [7f-wallet](https://github.com/Seven-Fortunas-Internal/7f-wallet) | Seven Fortunas wallet (placeholder) |
 
 ## How We Work
 
 This org is **AI-native**. Every structural action has a skill — a Claude Code command that plans, executes, and documents the work. Humans set direction. Agents execute.
 
-- **Skills:** `/7f-brain-query`, `/7f-project-import`, `/bmad-create-prd`, and 100+ others
-- **Second Brain:** Institutional memory that grows with every sprint, ADR, and project
-- **Infrastructure as Code:** Org config, CI/CD, and dashboards are generated and maintained by agents
-
-## Access
-
-All repositories are private. Access is restricted to Seven Fortunas team members.
-Contact [jorge-at-sf](https://github.com/jorge-at-sf) for access requests.
+New member? The onboarding button above is your starting point.
 
 ---
 
