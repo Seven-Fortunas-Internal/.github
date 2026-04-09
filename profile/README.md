@@ -4,7 +4,7 @@
 
 <br>
 
-[![New Member? Start Here](https://img.shields.io/badge/New%20Member%3F-Start%20Onboarding%20→-brightgreen?style=for-the-badge&logo=github)](https://github.com/Seven-Fortunas-Internal/internal-docs/blob/main/onboarding.md)
+[![New Member? Start Here](https://img.shields.io/badge/New%20Member%3F-Start%20Here-brightgreen?style=for-the-badge&logo=github)](https://github.com/Seven-Fortunas-Internal/internal-docs/blob/main/onboarding.md)
 
 <br>
 
@@ -19,13 +19,13 @@
 | [dashboards-internal](https://github.com/Seven-Fortunas-Internal/dashboards-internal) | Internal AI, fintech, edutech, security dashboards |
 | [internal-docs](https://github.com/Seven-Fortunas-Internal/internal-docs) | Runbooks, SOPs, onboarding guides |
 
-### Customer Projects  ·  [index →](https://github.com/Seven-Fortunas-Internal/customer-projects)
+### Customer Projects &nbsp;·&nbsp; [index](https://github.com/Seven-Fortunas-Internal/customer-projects)
 
 | Repo | Client |
 |------|--------|
-| [cp-intercorp](https://github.com/Seven-Fortunas-Internal/cp-intercorp) | Intercorp Group — US→Peru remittance + loyalty |
+| [cp-intercorp](https://github.com/Seven-Fortunas-Internal/cp-intercorp) | Intercorp Group — US to Peru remittance + loyalty |
 
-### Engineering  ·  [index →](https://github.com/Seven-Fortunas-Internal/engineering)
+### Engineering &nbsp;·&nbsp; [index](https://github.com/Seven-Fortunas-Internal/engineering)
 
 | Repo | Description |
 |------|-------------|
@@ -34,8 +34,6 @@
 ## How We Work
 
 This org is **AI-native**. Every structural action has a skill — a Claude Code command that plans, executes, and documents the work. Humans set direction. Agents execute.
-
-New member? The onboarding button above is your starting point.
 
 ---
 
