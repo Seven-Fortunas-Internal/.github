@@ -33,6 +33,7 @@
 |------|-------------|
 | [7f-wallet](https://github.com/Seven-Fortunas-Internal/7f-wallet) | Seven Fortunas wallet (placeholder) |
 | [7f-secops](https://github.com/Seven-Fortunas-Internal/7f-secops) | SecOps & GRC compliance framework — CISO Assistant, SOC 1/2, custody security |
+| [7f-airgap-signing](https://github.com/Seven-Fortunas-Internal/7f-airgap-signing) | Airgapped multisig transaction signer — QR bridge, Tails OS, BIP-44, Safe Protocol, OpenTimestamps |
 
 ## How We Work
 
