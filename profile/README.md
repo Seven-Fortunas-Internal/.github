@@ -23,6 +23,7 @@
 
 | Repo | Client |
 |------|--------|
+| [cp-aprende-y-gana](https://github.com/Seven-Fortunas-Internal/cp-aprende-y-gana) | Seven Fortunas — EduPeru offline-first Android learning platform |
 | [cp-intercorp](https://github.com/Seven-Fortunas-Internal/cp-intercorp) | Intercorp Group — US to Peru remittance + loyalty |
 | [cp-viasat-mx](https://github.com/Seven-Fortunas-Internal/cp-viasat-mx) | Viasat — USD→Mexico stablecoin remittance |
 
