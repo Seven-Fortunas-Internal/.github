@@ -24,6 +24,7 @@
 | Repo | Client |
 |------|--------|
 | [cp-intercorp](https://github.com/Seven-Fortunas-Internal/cp-intercorp) | Intercorp Group — US to Peru remittance + loyalty |
+| [cp-viasat-mx](https://github.com/Seven-Fortunas-Internal/cp-viasat-mx) | Viasat — USD→Mexico stablecoin remittance |
 
 ### Engineering &nbsp;·&nbsp; [index](https://github.com/Seven-Fortunas-Internal/engineering)
 
