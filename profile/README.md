@@ -30,6 +30,7 @@
 | Repo | Description |
 |------|-------------|
 | [7f-wallet](https://github.com/Seven-Fortunas-Internal/7f-wallet) | Seven Fortunas wallet (placeholder) |
+| [7f-secops](https://github.com/Seven-Fortunas-Internal/7f-secops) | SecOps & GRC compliance framework — CISO Assistant, SOC 1/2, custody security |
 
 ## How We Work
 
